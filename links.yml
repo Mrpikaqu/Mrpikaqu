@@ -15,7 +15,7 @@ url: https://lideshan.top
 # Favicon（可选）
 shortcut_icon: https://lideshan.top/user.png
 # 社交分享图片（可选）
-og_img: https://lideshan.top/user.png
+# og_img: https://lideshan.top/user.png
 # 主页 URL
 home_url: https://ice-a.github.io/navs/
 # GitHub 链接（可选）
@@ -98,6 +98,24 @@ categories:
         url: https://tlsja3.cn/
         description: 指纹检测
 
+  - category: Github仓库
+    icon: linecons-doc
+    links:
+      - title: curl_cffi
+        url: https://github.com/yifeikong/curl_cffi/blob/main/README-zh.md
+        description: 可以模拟浏览器的 TLS/JA3 和 HTTP/2 指纹
+      - title: Docker构建安卓
+        url: https://github.com/budtmo/docker-android
+        description: Docker构建安卓
+      - title: 高性能的Web网关
+        url: https://github.com/apiumc/Gateway
+        description: Docker构建安卓
+      - title: Docker构建windows
+        url: https://github.com/dockur/windows
+        description: Docker构建windows
+       - title: 自动化运维平台
+        url:  https://github.com/welliamcao/OpsManage
+        
   - category: 爬虫和反爬虫
     icon: linecons-doc
     links:
