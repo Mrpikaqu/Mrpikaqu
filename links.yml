@@ -152,6 +152,82 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
+  - category: 收藏
+    icon: linecons-star
+    links:
+      - title: freeCodeCamp
+        url: https://github.com/freeCodeCamp/freeCodeCamp
+      - title: 书籍
+        url:https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
+      - title: awesome
+        url: https://github.com/sindresorhus/awesome
+      - title: 996icu
+        url: https://github.com/996icu/996.ICU/blob/master/README_CN.md
+      - title: 真棒python
+        url: https://github.com/vinta/awesome-python
+      - title: 构建x
+        url: https://github.com/codecrafters-io/build-your-own-x
+      - title: public Api
+        url: https://github.com/public-apis/public-apis
+      - title: 计算机科学课程与视频讲座
+        url: https://github.com/Developer-Y/cs-video-courses
+      - title: 系统设计入门
+        url: https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
+      - title: python算法
+        url: https://github.com/TheAlgorithms/Python
+      - title: 你不知道的js的问题
+        url: https://github.com/getify/You-Dont-Know-JS
+      - title: ohmyzsh
+        url: https://github.com/ohmyzsh/ohmyzsh
+      - title: 计算机科学
+        url: https://github.com/ossu/computer-science
+      - title: gitignore
+        url: https://github.com/github/gitignore
+      - title: js进阶
+        url: https://github.com/airbnb/javascript
+      - title: ytdl
+        url: https://github.com/ytdl-org/youtube-dl
+      - title: 秘密知识之书
+        url: https://github.com/trimstray/the-book-of-secret-knowledge
+      - title: 算法小抄
+        url: https://github.com/labuladong/fucking-algorithm
+      - title: 30秒学习一个知识
+        url: https://github.com/Chalarangelo/30-seconds-of-code
+      - title: 技术面试手册
+        url: https://github.com/yangshun/tech-interview-handbook
+      - title: 免费的中文编程书籍索引
+        url: https://github.com/justjavac/free-programming-books-zh_CN
+      - title: 控制手机
+        url: https://github.com/Genymobile/scrcpy
+      - title: github中文项目
+        url: https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+      - title: puppeteer
+        url: https://github.com/puppeteer/puppeteer
+      - title: githubhello
+        url: https://github.com/521xueweihan/HelloGitHub?tab=readme-ov-file
+      - title: 可以白嫖的dev
+        url: https://github.com/ripienaar/free-for-dev
+      - title: frp内网穿  
+        url: https://github.com/fatedier/frp/blob/dev/README_zh.md
+      - title: 每个程序员应该知道的东西
+        url: https://github.com/mtdvio/every-programmer-should-know
+      - title: 真棒-Hacking
+        url: https://github.com/Hack-with-Github/Awesome-Hacking
+      - title: 应用程序想法合集
+        url: https://github.com/florinpop17/app-ideas
+      - title: 动画算法图解
+        url: https://github.com/krahets/hello-algo
+      - title: hugo静态网站
+        url:https://github.com/gohugoio/hugo?tab=readme-ov-file
+      - title: fastapi
+        url:https://github.com/tiangolo/fastapi
+      - title: netdata
+        url: https://github.com/netdata/netdata?tab=readme-ov-file
+      - title: moby
+        url: https://github.com/moby/moby
+      - title: 面试清单
+        url: https://github.com/DopplerHQ/awesome-interview-questions
+
   - category: 社区
     icon: linecons-doc
     links:
