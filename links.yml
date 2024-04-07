@@ -102,19 +102,26 @@ categories:
     icon: linecons-doc
     links:
       - title: curl_cffi
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/yifeikong/curl_cffi/blob/main/README-zh.md
         description: 可以模拟浏览器的 TLS/JA3 和 HTTP/2 指纹
       - title: Docker构建安卓
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/budtmo/docker-android
         description: Docker构建安卓
       - title: 高性能的Web网关
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/apiumc/Gateway
         description: Docker构建安卓
       - title: Docker构建windows
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/dockur/windows
         description: Docker构建windows
        - title: 自动化运维平台
+        description: Docker构建windows
         url:  https://github.com/welliamcao/OpsManage
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        
         
   - category: 爬虫和反爬虫
     icon: linecons-doc
