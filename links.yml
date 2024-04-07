@@ -206,7 +206,7 @@ categories:
       - title: freeCodeCamp
         url: https://github.com/freeCodeCamp/freeCodeCamp
       - title: 书籍
-        url:https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
+        url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
       - title: awesome
         url: https://github.com/sindresorhus/awesome
       - title: 996icu
@@ -266,9 +266,9 @@ categories:
       - title: 动画算法图解
         url: https://github.com/krahets/hello-algo
       - title: hugo静态网站
-        url:https://github.com/gohugoio/hugo?tab=readme-ov-file
+        url: https://github.com/gohugoio/hugo?tab=readme-ov-file
       - title: fastapi
-        url:https://github.com/tiangolo/fastapi
+        url: https://github.com/tiangolo/fastapi
       - title: netdata
         url: https://github.com/netdata/netdata?tab=readme-ov-file
       - title: moby
